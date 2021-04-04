@@ -1,0 +1,2 @@
+//file jquery.min.js has to be in the folder
+<script src="jquery.min.js"></script>
